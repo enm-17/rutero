@@ -15,7 +15,7 @@ client.login('NDg3Mjc3NTc5Nzc5NDQwNjYx.DrVyUQ.aUZKXj9m0cwEiYdP4kwImLsX8Ek');
 
 bot.on('message', (message) => {
 		if (message.content == 'hola') {
-			message.channel.sendMessage('Saludos de parte del equipo de RutaBlockchain. \n Gracias por ser parte de Ruta y Te invitamos a nuestros Podcast Estelares');
+			message.channel.sendMessage('Saludos de parte del xxxxxx de RutaBlockchain. \n Gracias por ser parte de Ruta y Te invitamos a nuestros Podcast Estelares');
 			
 		}
 	else
